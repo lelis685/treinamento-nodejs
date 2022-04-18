@@ -1,0 +1,22 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "treinamento Hcode nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelis685/treinamento-nodejs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lelis685/treinamento-nodejs/issues"
+  },
+  "homepage": "https://github.com/lelis685/treinamento-nodejs#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
